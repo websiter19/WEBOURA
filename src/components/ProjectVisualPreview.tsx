@@ -114,7 +114,17 @@ export const ProjectVisualPreview: React.FC<{ project: Project }> = ({ project }
       </div>
     );
   }
-
+ if (project.id === 'vellore-pharma') {
+  return (
+    <div className="w-full h-full min-h-[360px] overflow-hidden">
+      <img
+        src="YOUR_IMAGE_LINK_HERE"
+        alt="Vellore Pharma"
+        className="w-full h-full object-cover"
+      />
+    </div>
+  );
+}
   // Gym / Iron Strength Portfolio
   return (
     <div className="w-full h-full min-h-[360px] sm:min-h-[440px] lg:min-h-[480px] bg-[#0E0F10] text-[#E8E8E8] p-6 sm:p-8 lg:p-10 flex flex-col justify-between relative overflow-hidden select-none">
