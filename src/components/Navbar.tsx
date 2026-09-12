@@ -58,7 +58,7 @@ export const Navbar: React.FC = () => {
             className="group flex items-center focus:outline-none py-1 cursor-pointer"
             aria-label="WEBOURA Home - Scroll to top"
           >
-            <span className="text-xl sm:text-2xl font-black tracking-[0.18em] uppercase text-[#121110] group-hover:text-[#8B1417] transition-colors duration-200 select-none">
+            <span className="text-xl sm:text-2xl font-black tracking-[0.05em] uppercase text-[#121110] group-hover:text-[#8B1417] transition-colors duration-200 select-none">
               WEBOURA
             </span>
           </a>
