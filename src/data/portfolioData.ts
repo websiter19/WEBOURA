@@ -73,6 +73,7 @@ export const PROJECTS_DATA: Project[] = [
       role: 'Brand Digitalization & High-Impact Web Design',
       deliverables: ['Dynamic Class Timetable', 'Membership Funnel', 'Bold Kinetic Typography'],
     },
+  },
     {
     id: 'vellore-pharma',
     number: '04',
