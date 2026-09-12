@@ -1,0 +1,6 @@
+{
+  "name": "WEBOURA — Creative Web Studio",
+  "description": "Independent digital studio designing and developing modern websites for businesses, brands, and ideas that deserve a stronger digital presence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
