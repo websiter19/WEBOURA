@@ -118,7 +118,7 @@ export const ProjectVisualPreview: React.FC<{ project: Project }> = ({ project }
   return (
     <div className="w-full h-full min-h-[360px] overflow-hidden">
       <img
-        src="https://images.unsplash.com/..."
+        src="https://virhealth.fr/assets/img/cro_lab_3.png"
         alt="Vellore Pharma"
         className="w-full h-full object-cover"
       />
