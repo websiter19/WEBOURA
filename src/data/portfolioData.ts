@@ -73,6 +73,23 @@ export const PROJECTS_DATA: Project[] = [
       role: 'Brand Digitalization & High-Impact Web Design',
       deliverables: ['Dynamic Class Timetable', 'Membership Funnel', 'Bold Kinetic Typography'],
     },
+    {
+    id: 'vellore-pharma',
+    number: '04',
+    category: '04 / WEB EXPERIENCE',
+    title: 'VELLORE PHARMA',
+    description: 'A modern pharmaceutical company website showcasing medicines, healthcare solutions, manufacturing and global export services.',
+    liveUrl: 'https://vellore-pharma-demo.preview.emergentagent.com/',
+    theme: {
+      accentColor: '#7A1F2B',
+      bgTone: '#F4F1EC',
+      badgeText: 'PHARMACEUTICAL & HEALTHCARE',
+    },
+    details: {
+      year: '2026',
+      role: 'Website Design & Development',
+      deliverables: ['Responsive Website', 'Product Showcase', 'Medicine Information', 'Company Profile'],
+    },
   },
 ];
 
